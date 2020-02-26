@@ -1,6 +1,6 @@
 # deli_meals
 
-A new Flutter application.
+Meals Recipes Application
 
 ## Getting Started
 
